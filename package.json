@@ -1,0 +1,8 @@
+{
+  "name": "validator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/terencechow/validator.git",
+  "author": "Terence Chow <terencechow@quillcontent.com>",
+  "license": "MIT"
+}
