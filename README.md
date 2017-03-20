@@ -1,4 +1,4 @@
-## Multi Validator
+## Check Validations
 
 ### Description
 
@@ -14,7 +14,7 @@ Simple utility function to take in an array of validations and return the first 
 import isEmail from 'validator/lib/isEmail' // <-- separate library
 import isEmpty from 'validator/lib/isEmpty' // <-- separate library
 
-import checkValidations from 'multi-validator'
+import checkValidations from 'check-validations'
 
 const validate = values => {
   const errors = {}

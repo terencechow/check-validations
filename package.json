@@ -1,8 +1,8 @@
 {
-  "name": "validator",
+  "name": "check-validations",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/terencechow/validator.git",
+  "repository": "https://github.com/terencechow/check-validations.git",
   "author": "Terence Chow <terencechow@quillcontent.com>",
   "license": "MIT"
 }
